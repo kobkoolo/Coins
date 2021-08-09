@@ -176,7 +176,7 @@ moneyTaken:
 takePercentage: false
 
 # And should the money be dropped, or just disappear? Disappears by default.
-dropOnDeath: false
+dropOnDeath: true
 
 # The message in the middle of their screen.
 deathMessage: '&4- &c{$}%amount%'
