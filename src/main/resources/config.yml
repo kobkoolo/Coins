@@ -62,7 +62,7 @@ moneyDecimals: 2
 # Stacked coins don't act like one coin. The stack is counted and the worth is multiplied.
 # Not stacking coins is just for a cooler effect.
 # This setting will be ignored (and set to false) if 'dropEachCoin' is set to true.
-stackCoins: false
+stackCoins: true
 
 # The minimum percentage of damage a player needs to deal to a mob to drop coins.
 # This can be useful for one-hit mob grinders that damage mobs by i.e. fall damage.
